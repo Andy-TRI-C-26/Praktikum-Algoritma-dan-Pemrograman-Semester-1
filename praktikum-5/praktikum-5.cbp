@@ -43,6 +43,9 @@
 		<Unit filename="percobaan-3.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="percobaan-4.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
