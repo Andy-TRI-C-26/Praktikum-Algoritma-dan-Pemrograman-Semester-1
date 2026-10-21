@@ -31,6 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="lapres-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lapres-3.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="pandahuluan-1a.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -38,6 +44,18 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="pendahuluan-1c.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-4.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
