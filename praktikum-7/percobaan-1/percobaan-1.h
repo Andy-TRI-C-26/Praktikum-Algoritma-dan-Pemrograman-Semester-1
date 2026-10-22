@@ -1,0 +1,1 @@
+int jumlahkanDataGenap(int banyakData);
