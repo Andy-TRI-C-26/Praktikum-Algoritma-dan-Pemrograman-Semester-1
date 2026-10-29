@@ -31,7 +31,37 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="extern1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="extern2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="extern3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kom_fung.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lokal.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="pendahuluan-1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-1a.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-1b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-1c.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="statis.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions />
