@@ -1,3 +1,15 @@
 # depslib dependency file v1.0
-1793805634 source:d:\codes\kuliah\semester 1\praktikum algoritma dan pemrograman\praktikum-9\pendahuluan-1.c
+1793842677 source:d:\codes\kuliah\semester 1\praktikum algoritma dan pemrograman\praktikum-9\pendahuluan-1.c
+
+1793845314 source:d:\codes\kuliah\semester 1\praktikum algoritma dan pemrograman\praktikum-9\percobaan-1.c
+	<stdio.h>
+	<string.h>
+
+1793805761 source:d:\codes\kuliah\semester 1\praktikum algoritma dan pemrograman\praktikum-9\percobaan-2.c
+
+1793845409 source:d:\codes\kuliah\semester 1\praktikum algoritma dan pemrograman\praktikum-9\percobaan-3.c
+	<stdio.h>
+
+1793845430 source:d:\codes\kuliah\semester 1\praktikum algoritma dan pemrograman\praktikum-9\percobaan-4.c
+	<stdio.h>
 
