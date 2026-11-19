@@ -37,6 +37,18 @@
 		<Unit filename="pendahuluan-2.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="percobaan-1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="percobaan-4.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
